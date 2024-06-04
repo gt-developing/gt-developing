@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Max and I'm a developer, from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Max and I'm a Developer, from Mexico</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/Za7KwK4AMeFq/giphy.webp?cid=ecf05e475sc2rxex2m3j6az6ka6iwav155boo82fwdvqe16l&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
 
 ###
 
@@ -32,15 +32,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/max_gtdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gt-developing/gt-developing/output/snake.svg" alt="Snake animation" />
 
 ###
